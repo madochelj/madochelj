@@ -1,5 +1,8 @@
-# Welcome to my Github
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Louis)](https://git.io/typing-svg)
 
+  ##### FAU Computer Science Student
+
+  #### Social
 <!--
 **madochelj/madochelj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
